@@ -19,5 +19,8 @@
   "homepage": "https://github.com/MathewsZione/Aula-ebac-ui2#readme",
   "devDependencies": {
     "cypress": "^10.3.0"
+  },
+  "dependencies": {
+    "faker": "^6.6.6"
   }
 }
